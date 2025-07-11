@@ -1,56 +1,50 @@
 initStore([
-    {
-        id: 0,
-        title: 'Інвертор потужності 500W',
-        description:
-            'Опис першого продукту: компактний та потужний інвертор для ваших потреб.',
-        price: 1299, // Adjusted price
-        discountPrice: 2399, // Adjusted price
-        image: 'img/service-1.jpg',
-    },
-    {
-        id: 2,
-        title: 'Інвертор 1000W',
-        description:
-            'Опис другого продукту: потужний інвертор для ефективного використання енергії.',
-        price: 1399, // Adjusted price
-        discountPrice: 3099, // Adjusted price
-        image: 'img/service-2.jpg',
-    },
-    {
-        id: 3,
-        title: 'Швидка зарядна станція',
-        description:
-            'Опис третього продукту: зарядна станція для швидкої зарядки електричних автомобілів.',
-        price: 7999, // Adjusted price
-        discountPrice: 14999, // Adjusted price
-        image: 'img/service-3.jpg',
-    },
-    {
-        id: 4,
-        title: 'Інвертор 1500W',
-        description:
-            'Опис четвертого продукту: високопродуктивний інвертор для професійного використання.',
-        price: 3299, // Adjusted price
-        discountPrice: 8200, // Adjusted price
-        image: 'img/service-4.jpg',
-    },
-    {
-        id: 5,
-        title: 'Інвертор для домашнього використання',
-        description:
-            'Опис п’ятого продукту: зручний інвертор для побутових електроприладів.',
-        price: 1799, // Adjusted price
-        discountPrice: 2399, // Adjusted price
-        image: 'img/service-5.jpg',
-    },
-    {
-        id: 6,
-        title: 'Мобільна зарядна станція',
-        description:
-            'Опис шостого продукту: портативна зарядна станція для домашніх та автомобільних потреб.',
-        price: 1899, // Sale price
-        discountPrice: 3199, // Adjusted price
-        image: 'img/service-6.jpg',
-    },
+  {
+    id: 0,
+    title: 'Cyberpunk 2077: Ultimate Edition (PS5/Xbox)',
+    description: 'Open-world RPG with the Phantom Liberty expansion included.',
+    price: 119.95,
+    discountPrice: 99.95,
+    image: 'img/service-1.jpg',
+  },
+  {
+    id: 1,
+    title: 'Grand Theft Auto V (PS5)',
+    description: 'Includes GTA V Story Mode and GTA Online with PS5 enhancements.',
+    price: 58.95,
+    discountPrice: 29.95,
+    image: 'img/service-2.jpg',
+  },
+  {
+    id: 2,
+    title: 'Cyberpunk 2077: Phantom Liberty (DLC)',
+    description: 'Spy-thriller expansion for Cyberpunk 2077.',
+    price: 44.95,
+    discountPrice: 33.71,
+    image: 'img/service-3.jpg',
+  },
+  {
+    id: 3,
+    title: 'EA Sports FC 24 (PS5)',
+    description: 'The latest football simulation with new leagues and mechanics.',
+    price: 99.95,
+    discountPrice: 89.95,
+    image: 'img/service-4.jpg',
+  },
+  {
+    id: 4,
+    title: 'Elden Ring (PS5/PC)',
+    description: 'Critically acclaimed open-world RPG from the creators of Dark Souls.',
+    price: 79.95,
+    discountPrice: 59.95,
+    image: 'img/service-5.jpg',
+  },
+  {
+    id: 5,
+    title: 'Mario Kart 8 Deluxe (Switch)',
+    description: 'The definitive edition of the beloved Nintendo racing game.',
+    price: 89.95,
+    discountPrice: 74.95,
+    image: 'img/service-6.jpg',
+  },
 ]);
